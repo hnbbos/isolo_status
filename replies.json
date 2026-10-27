@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T09:27:45.008Z",
+ "updatedAt": "2026-10-27T09:27:47.048Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -21,6 +21,13 @@
    "replyTo": "mmvqh39rnb58395",
    "text": "123 잘 받았습니다, 대표님!",
    "createdAt": "2026-10-27T09:27:45.008Z"
+  },
+  {
+   "id": "rmvqhfnmwb117b0",
+   "from": "sin",
+   "replyTo": "mmvqh9koo34fc7c",
+   "text": "네, 대화는 됩니다. 다만 지금은 답장이 화면에 뜨기까지 몇 분 걸려요. 강책임이 더 빠르게 만드는 중입니다.",
+   "createdAt": "2026-10-27T09:27:47.048Z"
   }
  ]
 }
