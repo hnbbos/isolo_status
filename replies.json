@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-27T09:36:07.841Z",
+ "updatedAt": "2026-10-27T09:39:55.404Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -39,14 +39,20 @@
   }
  ],
  "stages": {
-  "mmvqho8ptd23273": {
-   "stage": "arrived",
-   "at": "2026-10-27T09:36:07.834Z"
-  },
   "mmvqhozceffed29": {
    "stage": "arrived",
    "at": "2026-10-27T09:36:07.834Z"
+  },
+  "mmvqho8ptd23273": {
+   "stage": "forwarded",
+   "at": "2026-10-27T09:39:55.397Z"
   }
  },
- "bots": {}
+ "bots": {
+  "sin": {
+   "state": "idle",
+   "activityKey": null,
+   "updatedAt": "2026-10-27T09:39:55.397Z"
+  }
+ }
 }
