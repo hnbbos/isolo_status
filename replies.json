@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-27T12:34:17.972Z",
+ "updatedAt": "2026-10-27T12:43:46.660Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -78,6 +78,13 @@
    "replyTo": "mmvqnx5it16468e",
    "text": "대표님, 말씀이 '지금 은'에서 끊겨 들어왔습니다. 지금 상황을 물으신 거라면, 20:49판을 대표님 PC에 반영하는 중입니다(21:34). 대표님이 21:32에 승인하셔서 relay-link 가지 푸시도 같이 진행하고 있습니다. 다른 걸 물으신 거면 다시 보내 주세요.",
    "createdAt": "2026-10-27T12:34:17.966Z"
+  },
+  {
+   "id": "rmvqofpem846448",
+   "from": "kang",
+   "replyTo": "mmvqofggy5742a3",
+   "text": "실시간 전달 시험 메시지 받았습니다. (강책임)",
+   "createdAt": "2026-10-27T12:43:46.653Z"
   }
  ],
  "stages": {
@@ -104,6 +111,10 @@
   "mmvqnx5it16468e": {
    "stage": "replied",
    "at": "2026-10-27T12:34:17.966Z"
+  },
+  "mmvqofggy5742a3": {
+   "stage": "replied",
+   "at": "2026-10-27T12:43:46.653Z"
   }
  },
  "bots": {
@@ -115,7 +126,7 @@
   "kang": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-27T09:44:48.309Z"
+   "updatedAt": "2026-10-27T12:43:46.653Z"
   }
  }
 }
