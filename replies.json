@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-27T12:58:35.870Z",
+ "updatedAt": "2026-10-27T13:17:27.256Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -133,13 +133,17 @@
   "mmvqovm1ic7333d": {
    "stage": "replied",
    "at": "2026-10-27T12:58:35.862Z"
+  },
+  "mmvqozhm787bda0": {
+   "stage": "forwarded",
+   "at": "2026-10-27T13:17:27.247Z"
   }
  },
  "bots": {
   "sin": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-27T12:58:35.862Z"
+   "updatedAt": "2026-10-27T13:17:27.247Z"
   },
   "kang": {
    "state": "idle",
