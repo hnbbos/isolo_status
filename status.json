@@ -1,0 +1,238 @@
+{
+ "schema": 1,
+ "generatedAt": "2026-10-31T17:04:16+09:00",
+ "intervalSec": 300,
+ "bots": [
+  {
+   "id": "8aace721-ea29-47a7-8316-df9932e414ce",
+   "key": "sin",
+   "name": "신비서",
+   "desk": 1,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T16:44:01+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "f564596f-fee5-42ac-b9c7-3bfde15d035f",
+   "key": "nam",
+   "name": "남과장",
+   "desk": 0,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:09:00+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "afecf187-c700-4659-9835-190996214fd3",
+   "key": "kang",
+   "name": "강책임",
+   "desk": 1,
+   "status": "working",
+   "label": "작업 중",
+   "private": false,
+   "lastActiveAt": "2026-10-31T17:04:03+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "cfa13e4b-d43b-49cc-a585-cde8b595144f",
+   "key": "seo",
+   "name": "서대리",
+   "desk": 2,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:09:03+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "afdc01e3-ba8b-46f9-854c-28eeb27657f4",
+   "key": "gu",
+   "name": "구대리_리버스 엔지니어링",
+   "desk": 0,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:54+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "5274fff4-732f-45dd-bcbb-c5eaf654e625",
+   "key": "jang",
+   "name": "장도현",
+   "desk": 0,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:56+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "0a392a28-7252-4f51-b5cc-3dadd8f6d517",
+   "key": "an",
+   "name": "안대리",
+   "desk": 0,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:47+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "f446baac-b3e1-45c1-849b-3f3ab5fc2cea",
+   "key": "yoon",
+   "name": "윤대리",
+   "desk": 3,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:09:01+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "51f709da-63e7-4d93-8ad1-bb6c2e570be2",
+   "key": "han",
+   "name": "한대리",
+   "desk": 2,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:47+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "8040daf4-f949-40fa-97e1-4ad5ba71ec1d",
+   "key": "moon",
+   "name": "문대리",
+   "desk": 2,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T16:25:38+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "0bd415b8-466f-42e4-b2ce-066cc884f6de",
+   "key": "kimgwa",
+   "name": "김과장",
+   "desk": 1,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:50+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "1e3dac8e-e3a1-4327-b3f7-db4619a8c28d",
+   "key": "kimcha",
+   "name": "김차장",
+   "desk": 5,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:48+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "3b2e63df-ee8b-42b0-8c6c-7949c4b200c7",
+   "key": "oh",
+   "name": "오대리",
+   "desk": 0,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:45+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "c7d0202d-ef24-48f7-9104-82891956d3b7",
+   "key": "park",
+   "name": "박대리",
+   "desk": 1,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:59+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "f91587bd-9ce9-4bdd-8b29-30dfec1b37a7",
+   "key": "jung",
+   "name": "정대리",
+   "desk": 4,
+   "status": "ok",
+   "label": "정상",
+   "private": true,
+   "lastActiveAt": null,
+   "checkAt": null
+  },
+  {
+   "id": "e5e8185b-bd83-45b7-bc83-f523f782eab5",
+   "key": "hong",
+   "name": "홍대리",
+   "desk": 1,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:09:02+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "5c3009a3-21f1-4c81-a4ec-b2168f2b5ade",
+   "key": "go",
+   "name": "고대리",
+   "desk": 2,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:53+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "b0c4f868-7a03-4e28-9680-6e64c56f9728",
+   "key": "yu",
+   "name": "유부장",
+   "desk": 1,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:53+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "41a5d53b-412d-4436-b459-dbbe3de7f64a",
+   "key": "choi",
+   "name": "최과장",
+   "desk": 3,
+   "status": "working",
+   "label": "작업 중",
+   "private": false,
+   "lastActiveAt": "2026-10-31T16:54:47+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "0834c044-0ed0-4820-a309-621f16d62564",
+   "key": "lee",
+   "name": "이부장",
+   "desk": 2,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:49+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  },
+  {
+   "id": "b0d92f53-a15b-467e-9031-052328f70a40",
+   "key": "sotong",
+   "name": "소통지기",
+   "desk": 0,
+   "status": "idle",
+   "label": "대기",
+   "private": false,
+   "lastActiveAt": "2026-10-31T01:08:52+09:00",
+   "checkAt": "2026-10-31T17:04:16+09:00"
+  }
+ ]
+}
