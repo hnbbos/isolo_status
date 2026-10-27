@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T09:22:54.752Z",
+ "updatedAt": "2026-10-27T09:27:45.008Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -14,6 +14,13 @@
    "replyTo": "mmvqh1tvc11fc28",
    "text": "대표님, 하이와 ㅇㅇ 잘 받았습니다 — 대시보드 대화 연결 성공입니다!",
    "createdAt": "2026-10-27T09:22:54.752Z"
+  },
+  {
+   "id": "rmvqhfm2818fec2",
+   "from": "sin",
+   "replyTo": "mmvqh39rnb58395",
+   "text": "123 잘 받았습니다, 대표님!",
+   "createdAt": "2026-10-27T09:27:45.008Z"
   }
  ]
 }
