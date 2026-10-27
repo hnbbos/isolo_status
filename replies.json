@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-27T09:44:46.983Z",
+ "updatedAt": "2026-10-27T09:44:48.316Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -50,6 +50,13 @@
    "replyTo": "mmvqhozceffed29",
    "text": "지금은 10월 27일 18시 40분(한국시간)입니다. 화면에 뜨는 건 몇 분 뒤일 수 있어요.",
    "createdAt": "2026-10-27T09:40:34.942Z"
+  },
+  {
+   "id": "rmvqi1jn9e733f3",
+   "from": "kang",
+   "replyTo": "mmvqhzcd14c5669",
+   "text": "강책임입니다. 개선판(테스트 버전 10월 27일 18:42) 반영 확인 시험 답장입니다.",
+   "createdAt": "2026-10-27T09:44:48.309Z"
   }
  ],
  "stages": {
@@ -62,8 +69,8 @@
    "at": "2026-10-27T09:40:34.942Z"
   },
   "mmvqhzcd14c5669": {
-   "stage": "forwarded",
-   "at": "2026-10-27T09:44:46.977Z"
+   "stage": "replied",
+   "at": "2026-10-27T09:44:48.309Z"
   }
  },
  "bots": {
@@ -75,7 +82,7 @@
   "kang": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-27T09:44:46.977Z"
+   "updatedAt": "2026-10-27T09:44:48.309Z"
   }
  }
 }
