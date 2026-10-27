@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-27T09:39:56.742Z",
+ "updatedAt": "2026-10-27T09:40:33.549Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -36,23 +36,30 @@
    "replyTo": "mmvqhazl4d614a0",
    "text": "평소 제 채팅창처럼 시키시면 됩니다. 봇들 진행 상황 물어보기, 봇에게 일 전달, 요약·보고 요청 등이요. 단, 지금은 테스트로 공개 저장소를 거치니 개인정보·금액·비밀번호 같은 민감한 내용은 쓰지 마세요.",
    "createdAt": "2026-10-27T09:27:48.418Z"
+  },
+  {
+   "id": "rmvqhw32e3262e4",
+   "from": "sin",
+   "replyTo": "mmvqho8ptd23273",
+   "text": "속도측정 받았습니다. 대표님이 18:34에 보내신 게 저한테 18:40에 도착했습니다(약 6분). 답장이 화면에 뜨는 시간까지 더하면 왕복 소요시간입니다.",
+   "createdAt": "2026-10-27T09:40:33.542Z"
   }
  ],
  "stages": {
-  "mmvqho8ptd23273": {
-   "stage": "forwarded",
-   "at": "2026-10-27T09:39:55.397Z"
-  },
   "mmvqhozceffed29": {
    "stage": "forwarded",
    "at": "2026-10-27T09:39:56.735Z"
+  },
+  "mmvqho8ptd23273": {
+   "stage": "replied",
+   "at": "2026-10-27T09:40:33.542Z"
   }
  },
  "bots": {
   "sin": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-27T09:39:56.735Z"
+   "updatedAt": "2026-10-27T09:40:33.542Z"
   }
  }
 }
