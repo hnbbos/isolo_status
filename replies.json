@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T09:22:06.775Z",
+ "updatedAt": "2026-10-27T09:22:54.752Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -7,6 +7,13 @@
    "replyTo": "mmvqh2rq22bf549",
    "text": "강책임: 시험 메시지 잘 받았습니다. 연결 정상입니다.",
    "createdAt": "2026-10-27T09:22:06.775Z"
+  },
+  {
+   "id": "rmvqh9e3kc439a2",
+   "from": "sin",
+   "replyTo": "mmvqh1tvc11fc28",
+   "text": "대표님, 하이와 ㅇㅇ 잘 받았습니다 — 대시보드 대화 연결 성공입니다!",
+   "createdAt": "2026-10-27T09:22:54.752Z"
   }
  ]
 }
