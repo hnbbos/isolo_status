@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-27T12:22:21.390Z",
+ "updatedAt": "2026-10-27T12:28:31.097Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -64,6 +64,13 @@
    "replyTo": "mmvqihhwe4841d9",
    "text": "지금은 저녁 7시 1분(한국시간)입니다. 18:57에 보내신 게 19:01에 저한테 도착했어요(약 4분).",
    "createdAt": "2026-10-27T10:01:54.753Z"
+  },
+  {
+   "id": "rmvqnw2yb1a809b",
+   "from": "sin",
+   "replyTo": "mmvqnnfwu8eee50",
+   "text": "대표님, 123 잘 받았습니다. 지금 화면과 연결이 정상입니다. 20:49판 반영이 끝나면 답장이 1초 안에 오는지도 함께 확인해 보세요.",
+   "createdAt": "2026-10-27T12:28:31.091Z"
   }
  ],
  "stages": {
@@ -84,15 +91,15 @@
    "at": "2026-10-27T10:01:54.753Z"
   },
   "mmvqnnfwu8eee50": {
-   "stage": "arrived",
-   "at": "2026-10-27T12:22:21.384Z"
+   "stage": "replied",
+   "at": "2026-10-27T12:28:31.091Z"
   }
  },
  "bots": {
   "sin": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-27T10:01:54.753Z"
+   "updatedAt": "2026-10-27T12:28:31.091Z"
   },
   "kang": {
    "state": "idle",
