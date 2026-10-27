@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-27T12:43:46.660Z",
+ "updatedAt": "2026-10-27T12:45:31.160Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -85,6 +85,13 @@
    "replyTo": "mmvqofggy5742a3",
    "text": "실시간 전달 시험 메시지 받았습니다. (강책임)",
    "createdAt": "2026-10-27T12:43:46.653Z"
+  },
+  {
+   "id": "rmvqohy1ef8680e",
+   "from": "kang",
+   "replyTo": "mmvqofggy5742a3",
+   "text": "대표님, 강책임 수신 확인했습니다. 실시간 전달 속도 시험 메시지 잘 받았습니다.",
+   "createdAt": "2026-10-27T12:45:31.154Z"
   }
  ],
  "stages": {
@@ -114,7 +121,7 @@
   },
   "mmvqofggy5742a3": {
    "stage": "replied",
-   "at": "2026-10-27T12:43:46.653Z"
+   "at": "2026-10-27T12:45:31.154Z"
   }
  },
  "bots": {
@@ -126,7 +133,7 @@
   "kang": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-27T12:43:46.653Z"
+   "updatedAt": "2026-10-27T12:45:31.154Z"
   }
  }
 }
