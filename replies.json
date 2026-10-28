@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-28T08:59:34.115Z",
+ "updatedAt": "2026-10-28T09:47:59.673Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -347,6 +347,10 @@
   "mspd9efda7ea": {
    "stage": "forwarded",
    "at": "2026-10-28T08:59:34.109Z"
+  },
+  "mmvrxkwyy4f6491": {
+   "stage": "arrived",
+   "at": "2026-10-28T09:47:59.646Z"
   }
  },
  "bots": {
