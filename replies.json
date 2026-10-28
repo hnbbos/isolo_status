@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-28T08:12:26.796Z",
+ "updatedAt": "2026-10-28T08:12:45.463Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -223,15 +223,15 @@
    "at": "2026-10-28T05:19:28.813Z"
   },
   "mmvru56jn167ceb": {
-   "stage": "arrived",
-   "at": "2026-10-28T08:12:26.788Z"
+   "stage": "forwarded",
+   "at": "2026-10-28T08:12:45.453Z"
   }
  },
  "bots": {
   "sin": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-28T05:19:28.813Z"
+   "updatedAt": "2026-10-28T08:12:45.453Z"
   },
   "kang": {
    "state": "idle",
