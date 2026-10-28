@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-28T08:25:56.020Z",
+ "updatedAt": "2026-10-28T08:31:12.154Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -162,6 +162,13 @@
    "replyTo": "mmvru56jn167ceb",
    "text": "대표님, hi 잘 받았습니다! 다만 실시간 중계 서버가 아니라 느린 경로(GitHub)로 와서 1분 넘게 걸렸습니다. 중계 서버를 7ee89d8로 재배포하면 빨라집니다.",
    "createdAt": "2026-10-28T08:13:35.847Z"
+  },
+  {
+   "id": "rmvruuqs3225b49",
+   "from": "sin",
+   "replyTo": "mmvrun3wr9cdf14",
+   "text": "안녕하세요, 대표님! 신비서입니다. 이제 실시간 경로로 잘 들어오고 있습니다. 필요하신 거 말씀해 주세요.",
+   "createdAt": "2026-10-28T08:31:12.147Z"
   }
  ],
  "stages": {
@@ -245,10 +252,6 @@
    "stage": "forwarded",
    "at": "2026-10-28T08:22:53.181Z"
   },
-  "mmvrun3wr9cdf14": {
-   "stage": "forwarded",
-   "at": "2026-10-28T08:25:34.812Z"
-  },
   "mmvrunhzeca114f": {
    "stage": "forwarded",
    "at": "2026-10-28T08:25:53.583Z"
@@ -256,13 +259,17 @@
   "mmvrunlzy660a15": {
    "stage": "forwarded",
    "at": "2026-10-28T08:25:56.014Z"
+  },
+  "mmvrun3wr9cdf14": {
+   "stage": "replied",
+   "at": "2026-10-28T08:31:12.147Z"
   }
  },
  "bots": {
   "sin": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-28T08:25:56.014Z"
+   "updatedAt": "2026-10-28T08:31:12.147Z"
   },
   "kang": {
    "state": "idle",
