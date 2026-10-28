@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-28T08:34:12.255Z",
+ "updatedAt": "2026-10-28T08:34:21.047Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -183,6 +183,13 @@
    "replyTo": "mmvrunlzy660a15",
    "text": "네, 잘 들립니다. 무엇을 도와드릴까요?",
    "createdAt": "2026-10-28T08:31:38.813Z"
+  },
+  {
+   "id": "rmvruysj403ac3b",
+   "from": "sin",
+   "replyTo": "mmvruvq7837101f",
+   "text": "네, 대표님. 여기서 말씀하시면 1초 안에 강책임을 거쳐 저한테 옵니다. 화면에는 미리 답변이 1초 안에 뜨고, 제 본 답은 보통 1분 내외로 올라옵니다. 그록봇 앱 제 채팅창에는 강책임이 전달한 내용으로 보이고, 대표님이 직접 쓴 말 그대로 뜨지는 않습니다.",
+   "createdAt": "2026-10-28T08:34:21.040Z"
   }
  ],
  "stages": {
@@ -278,20 +285,20 @@
    "stage": "replied",
    "at": "2026-10-28T08:31:38.813Z"
   },
-  "mmvruvq7837101f": {
-   "stage": "forwarded",
-   "at": "2026-10-28T08:32:25.099Z"
-  },
   "mspd2ad87ba8": {
    "stage": "forwarded",
    "at": "2026-10-28T08:34:12.247Z"
+  },
+  "mmvruvq7837101f": {
+   "stage": "replied",
+   "at": "2026-10-28T08:34:21.040Z"
   }
  },
  "bots": {
   "sin": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-28T08:34:12.247Z"
+   "updatedAt": "2026-10-28T08:34:21.040Z"
   },
   "kang": {
    "state": "idle",
