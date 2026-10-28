@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": "2026-10-28T08:31:12.154Z",
+ "updatedAt": "2026-10-28T08:31:36.451Z",
  "replies": [
   {
    "id": "rmvqh8d2uf32a73",
@@ -169,6 +169,13 @@
    "replyTo": "mmvrun3wr9cdf14",
    "text": "안녕하세요, 대표님! 신비서입니다. 이제 실시간 경로로 잘 들어오고 있습니다. 필요하신 거 말씀해 주세요.",
    "createdAt": "2026-10-28T08:31:12.147Z"
+  },
+  {
+   "id": "rmvruv9j11b3b9c",
+   "from": "sin",
+   "replyTo": "mmvrunhzeca114f",
+   "text": "네, 대표님! 사영이 여기 있습니다.",
+   "createdAt": "2026-10-28T08:31:36.445Z"
   }
  ],
  "stages": {
@@ -252,10 +259,6 @@
    "stage": "forwarded",
    "at": "2026-10-28T08:22:53.181Z"
   },
-  "mmvrunhzeca114f": {
-   "stage": "forwarded",
-   "at": "2026-10-28T08:25:53.583Z"
-  },
   "mmvrunlzy660a15": {
    "stage": "forwarded",
    "at": "2026-10-28T08:25:56.014Z"
@@ -263,13 +266,17 @@
   "mmvrun3wr9cdf14": {
    "stage": "replied",
    "at": "2026-10-28T08:31:12.147Z"
+  },
+  "mmvrunhzeca114f": {
+   "stage": "replied",
+   "at": "2026-10-28T08:31:36.445Z"
   }
  },
  "bots": {
   "sin": {
    "state": "idle",
    "activityKey": null,
-   "updatedAt": "2026-10-28T08:31:12.147Z"
+   "updatedAt": "2026-10-28T08:31:36.445Z"
   },
   "kang": {
    "state": "idle",
